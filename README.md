@@ -1,7 +1,7 @@
 # 🧭 Apresentação do Repositório
 ![Preview da aplicação](./img/dic_front.png)
 
-Este repositório contém o **teste técnico (Coodesh)** de um Dicionário de Palavras em inglês, composto por **backend (NestJS)** e **frontend (React/TypeScript)**.
+Este repositório contém um Dicionário de Palavras em inglês, composto por **backend (NestJS)** e **frontend (React/TypeScript)**.
 
 
 > **Importante:** Os guias completos de instalação, execução e deploy estão nos READMEs específicos de cada parte do projeto:
@@ -63,7 +63,3 @@ git checkout main  # acompanhar versão de produção
 * **Infra/Extras:** Docker Compose, Railway (deploy), Redis (cache)
 
 
-
----
-
->  This is a challenge by [Coodesh](https://coodesh.com/)
